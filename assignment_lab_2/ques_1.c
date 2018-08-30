@@ -1,21 +1,19 @@
-#include <stdio.h>
-#include <stdlib.h>
+#include<stdio.h>
+#include<fcntl.h>
+int main(){
 
-int main()
-{
-	char c[1000];
-	FILE *fptr;
+char buff[1000000],fn[10];
+int fd,n;
 
-	if ((fptr = fopen("config.txt", "r")) == NULL)
-	{
-		printf("error opening file");	
-	}
-	else
-	{
-		fscanf(fptr , "%[^\n]", c);
+printf("Enter the filename\n");
 
-		printf("data from file\n%s", c);
-		fclose(fptr);
-	}
-	return 0;
+scanf("%s",fn);
+
+fd = open(fn,O_RDONLY);
+n = read(fd,buff,1000000);
+
+n = write(1,buff,n);
+
+close(fd);
+
 }
