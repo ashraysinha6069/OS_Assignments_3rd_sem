@@ -14,7 +14,6 @@ fd = open(fn,O_RDONLY);
 n = read(fd,buff,100);
 
 n = write(1,buff,n);
-printf("%d\n",n);
 
 close(fd);
 
