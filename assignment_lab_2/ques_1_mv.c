@@ -3,7 +3,8 @@
 #include <string.h>
 #include <errno.h>
 
-void print_error(char *this, char *filename1, char *filename2){
+void print_error(char *this, char *filename1, char *filename2)
+{
     fprintf(stderr, "%s cannot move %s to %s\n%s\n", 
             this, filename1, filename2, strerror(errno));
     exit(EXIT_FAILURE);
@@ -22,8 +23,8 @@ int main(int argc, char *argv[]){
 	if(argc != 3){
 		print_usage(argv[0]);
 	}
-    else if(rename(argv[1], argv[2]) == -1){
-        print_error(argv[0], argv[1], argv[2]);
-    }
+	else if(rename(argv[1], argv[2]) == -1){
+		print_error(argv[0], argv[1], argv[2]);
+	}
     return 0;
 }
