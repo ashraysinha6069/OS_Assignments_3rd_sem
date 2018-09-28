@@ -13,8 +13,8 @@ int main(void)
 	int n;
 	if (fork( ) == 0)
 	{
-		sleep(5); /* UUPS */
-		if( (shmid = shmget(2041, 32, 0)) == -1 )
+		sleep(2);
+		if( (shmid = shmget(41, 132, 0)) == -1 )
 		{
 			exit(1);
 		}
@@ -23,12 +23,12 @@ int main(void)
 			exit(2);
 		printf ("\nChild Reading ....\n\n");
 		for (n = 0; n < 26; n++)
-			putchar(shmPtr[n]);
+			printf("%c" ,shmPtr[n]);
 		putchar('\n'); 
 	}
 	else
 	{
-		if( (shmid = shmget(2041, 32, 0666 | IPC_CREAT)) == -1 )
+		if( (shmid = shmget(41, 132, 0666 | IPC_CREAT)) == -1 )
 		{
 			exit(1);
 		}
