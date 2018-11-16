@@ -1,0 +1,90 @@
+Set:0		Avg WaitTime:359.733337		Variance in WaitingTime52785.261719
+Minimum WaitingTime:0	Maximum WaitingTime712
+
+Set:1		Avg WaitTime:349.071442		Variance in WaitingTime38237.777344
+Minimum WaitingTime:0	Maximum WaitingTime670
+
+Set:2		Avg WaitTime:286.941162		Variance in WaitingTime32259.349609
+Minimum WaitingTime:0	Maximum WaitingTime562
+
+Set:3		Avg WaitTime:546.750000		Variance in WaitingTime88585.062500
+Minimum WaitingTime:0	Maximum WaitingTime1001
+
+Set:4		Avg WaitTime:68.400002		Variance in WaitingTime2866.639893
+Minimum WaitingTime:0	Maximum WaitingTime160
+
+Set:5		Avg WaitTime:575.296326		Variance in WaitingTime135278.875000
+Minimum WaitingTime:0	Maximum WaitingTime1216
+
+Set:6		Avg WaitTime:325.350006		Variance in WaitingTime54526.726562
+Minimum WaitingTime:0	Maximum WaitingTime713
+
+Set:7		Avg WaitTime:9.666667		Variance in WaitingTime186.888870
+Minimum WaitingTime:0	Maximum WaitingTime29
+
+Set:8		Avg WaitTime:91.500000		Variance in WaitingTime4692.583496
+Minimum WaitingTime:0	Maximum WaitingTime176
+
+Set:9		Avg WaitTime:161.000000		Variance in WaitingTime10626.250000
+Minimum WaitingTime:0	Maximum WaitingTime318
+
+Set:10		Avg WaitTime:754.483887		Variance in WaitingTime198426.140625
+Minimum WaitingTime:0	Maximum WaitingTime1528
+
+Set:11		Avg WaitTime:456.181824		Variance in WaitingTime91387.140625
+Minimum WaitingTime:0	Maximum WaitingTime946
+
+Set:12		Avg WaitTime:252.062500		Variance in WaitingTime30962.431641
+Minimum WaitingTime:0	Maximum WaitingTime518
+
+Set:13		Avg WaitTime:449.421051		Variance in WaitingTime71253.398438
+Minimum WaitingTime:0	Maximum WaitingTime824
+
+Set:14		Avg WaitTime:481.095245		Variance in WaitingTime72702.382812
+Minimum WaitingTime:0	Maximum WaitingTime896
+
+Set:15		Avg WaitTime:583.206909		Variance in WaitingTime151460.171875
+Minimum WaitingTime:0	Maximum WaitingTime1210
+
+Set:16		Avg WaitTime:381.823517		Variance in WaitingTime63838.968750
+Minimum WaitingTime:0	Maximum WaitingTime757
+
+Set:17		Avg WaitTime:301.466675		Variance in WaitingTime31250.917969
+Minimum WaitingTime:0	Maximum WaitingTime562
+
+Set:18		Avg WaitTime:510.956512		Variance in WaitingTime76363.617188
+Minimum WaitingTime:0	Maximum WaitingTime929
+
+Set:19		Avg WaitTime:545.791687		Variance in WaitingTime80221.757812
+Minimum WaitingTime:0	Maximum WaitingTime991
+
+Set:20		Avg WaitTime:577.730774		Variance in WaitingTime109207.421875
+Minimum WaitingTime:0	Maximum WaitingTime1098
+
+Set:21		Avg WaitTime:62.666668		Variance in WaitingTime3527.888672
+Minimum WaitingTime:0	Maximum WaitingTime162
+
+Set:22		Avg WaitTime:313.399994		Variance in WaitingTime34811.976562
+Minimum WaitingTime:0	Maximum WaitingTime597
+
+Set:23		Avg WaitTime:127.428574		Variance in WaitingTime8507.388672
+Minimum WaitingTime:0	Maximum WaitingTime268
+
+Set:24		Avg WaitTime:244.384613		Variance in WaitingTime21633.773438
+Minimum WaitingTime:0	Maximum WaitingTime436
+
+Set:25		Avg WaitTime:625.239990		Variance in WaitingTime114240.828125
+Minimum WaitingTime:0	Maximum WaitingTime1176
+
+Set:26		Avg WaitTime:160.285721		Variance in WaitingTime12807.918945
+Minimum WaitingTime:0	Maximum WaitingTime334
+
+Set:27		Avg WaitTime:246.250000		Variance in WaitingTime20357.853516
+Minimum WaitingTime:0	Maximum WaitingTime487
+
+Set:28		Avg WaitTime:459.380951		Variance in WaitingTime52210.992188
+Minimum WaitingTime:0	Maximum WaitingTime792
+
+Set:29		Avg WaitTime:668.225830		Variance in WaitingTime175419.187500
+Minimum WaitingTime:0	Maximum WaitingTime1343
+
