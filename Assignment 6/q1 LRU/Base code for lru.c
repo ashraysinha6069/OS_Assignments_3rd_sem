@@ -22,7 +22,7 @@ void print_frame(int n,int num[2][n],int key){
 	printf("\n");
 }
 
-int check(int n,int num[2][n],int key){
+int check(int n,int num[2][n],int ke	y){
 	for(int i=0;i<n;i++){
 		if(num[0][i]==key){
 			return 1;
